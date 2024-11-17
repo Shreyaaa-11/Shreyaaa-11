@@ -26,7 +26,7 @@ I am a aspiring software engineer <img src="https://media.giphy.com/media/WUlplc
 
 - Exploring full stack development and artificial intelligence.
   
-- I solve problems on Leetcode and read tech articles.
+- I solve problems on Leetcode and read tech articles in my free time. LinkedIn over Instagram.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-s1107/)
 
