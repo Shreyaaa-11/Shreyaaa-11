@@ -24,7 +24,7 @@ I am a aspiring software engineer <img src="https://media.giphy.com/media/WUlplc
 
 - I'm currently enhancing my problem solving skills.
 
-- Exploring full stack development and artificial intelligence.
+- Exploring full stack development and artificial intelligence, machine learning.
   
 - I solve problems on Leetcode and read tech articles in my free time. LinkedIn over Instagram.
 
