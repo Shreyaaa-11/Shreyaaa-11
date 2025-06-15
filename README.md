@@ -56,14 +56,17 @@ I am a aspiring software engineer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My Stats :
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaaa-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreyaaa-11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
 
+### Achievements :
+<div>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px">&nbsp;
+<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px"/>
+</div>
+ 
 
 <!---
 Shreyaaa-11/Shreyaaa-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
