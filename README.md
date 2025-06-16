@@ -65,6 +65,8 @@ I am a aspiring software engineer from India.
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shreyaaa-11&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shreyaaa-11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### Achievements :
 <div>
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px">&nbsp;
