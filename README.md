@@ -66,7 +66,10 @@ I am a aspiring software engineer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px">&nbsp;
 <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px"/>
 </div>
- 
+
+### Profile Stats :
+
+![](https://komarev.com/ghpvc/?username=Shreyaaa-11&color=green)
 
 <!---
 Shreyaaa-11/Shreyaaa-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
