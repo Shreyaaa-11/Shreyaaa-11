@@ -61,10 +61,14 @@ I am a aspiring software engineer from India.
 ### Streak :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreyaaa-11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
 
+<div align=left>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shreyaaa-11&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
 ### Achievements :
 <div>
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px">&nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px"/>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px"/>
 </div>
 
 ### Profile Stats :
